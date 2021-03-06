@@ -1,0 +1,8 @@
+*.swp
+*.mp3
+*.json
+*.m3u
+Thumbs.db
+!package-lock.json
+memo.json
+node_modules/
