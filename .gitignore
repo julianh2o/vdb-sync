@@ -4,5 +4,6 @@
 *.m3u
 Thumbs.db
 !package-lock.json
+!package.json
 memo.json
 node_modules/
